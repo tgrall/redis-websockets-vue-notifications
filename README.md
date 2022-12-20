@@ -53,4 +53,4 @@ Open `redis-cli` ou [Redis Insight](https://redislabs.com/redisinsight/) and pub
 
 You should see some notifications poping up in the Vue application.
 
-Test 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
+Test aio_skFY70eE5IsWEzglni5P6l2mIaVB
